@@ -7,3 +7,4 @@ turboLogger(
   "Eu consegui criar uma nova mensagem sem afetar a versão principal do sistema",
   "darkgreen"
 );
+turboLogger("Desenvolvedor Lucas esteve aqui", "white");
